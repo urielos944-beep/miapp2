@@ -1,10 +1,10 @@
 [app]
 
 # (str) Title of your application
-title = My Application
+title = ToolsBonrd
 
 # (str) Package name
-package.name = myapp
+package.name = toolsbonrd
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
